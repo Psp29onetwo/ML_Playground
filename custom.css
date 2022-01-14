@@ -1,0 +1,35 @@
+#ipython-main-app {
+  position: relative;
+}
+#jupyter-main-app {
+  position: relative;
+}
+div#notebook p,
+div#notebook {
+  font-size: 130%;
+  font-family: "mechanical";
+  line-height: 125%;
+  width: 95%;
+}
+div.output_subarea {
+  font-size: 75%;
+}
+div.output_text {
+  font-size: 110%;
+  font-family: "mechanical";
+}
+.rendered_html pre,
+.rendered_html table {
+  font-size: 130%;
+  font-family: "mechanical";
+  line-height: 125%;
+}
+.CodeMirror,
+.CodeMirror pre,
+.CodeMirror-dialog,
+.CodeMirror-dialog .CodeMirror-search-field,
+.terminal-app .terminal {
+  font-size: 120%;
+  font-family: "mechanical";
+  line-height: 125%;
+}
