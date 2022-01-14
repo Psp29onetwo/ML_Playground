@@ -9,10 +9,13 @@ div#notebook {
   font-size: 130%;
   font-family: "mechanical";
   line-height: 125%;
+}
+#notebook-container {
   width: 95%;
 }
 div.output_subarea {
   font-size: 75%;
+  font-family: "mechanical";
 }
 div.output_text {
   font-size: 110%;
